@@ -1,0 +1,28 @@
+h1{
+  font-style: italic;
+  color: green;
+  text-align: center;
+}
+.art{
+  margin:auto;
+}
+
+td{
+  background-color: black;
+  height: 200px;
+  width: 100px;
+  border: 2px solid white;
+}
+#one{
+  background-color: #32a852;
+}
+#two{
+  background-color: #45d9c0;
+}
+#three{
+  background-color: #2d3dcc;
+}#four{
+  background-color: #b31e97;
+}#five{
+  background-color: #8627c4;
+}
